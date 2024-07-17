@@ -9,8 +9,8 @@ This project is a practice in learning mode in which we try to similar the real 
  Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Devto_challenge_react.git
-cd Devto_challenge_react
+git clone https://github.com/Stiglittz/my-dev-to.git
+cd my-dev-to
 ```
 Install dependencies:
 ```bash
