@@ -1,5 +1,4 @@
 # Todo
-[] hacer commit de crear usuario
 [] quitar el password de las peticiones de la API
 [] Crear Post
     [] De una lista puedes seleccionar hasta 4 tags
@@ -9,9 +8,9 @@
         [] Validar 4 tags como maximo
         [] Ver tags seleccionados
         [] Opcion de borrar tags seleccionados
-[] Visualizar todos los Posts en el index
+[x] Visualizar todos los Posts en el index
     [] Validar author del post
-    [] Agregar una condicion si usuario no tiene avatar cargar una img fake
+    [x] Agregar una condicion si usuario no tiene avatar cargar una img fake
     [] Ordenar del mas reciente al mas antiguo *usar filter
 [] Pagina de Post que selecciones
 [] Modelo de usuario   
