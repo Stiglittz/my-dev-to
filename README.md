@@ -28,7 +28,5 @@ Open http://localhost:3000 with your browser to see the application.
 
 Put into practice the interaction of the backend with the front using Nextjs, use the components and find an organized structure, it still needs to be fixed.
 
-```
-
 
 
